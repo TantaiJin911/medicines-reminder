@@ -14,22 +14,22 @@
   
 | _Landing Screen_    |          _Home Screen_                     |               _Add New User Dialog Box_ |
 |---------------------|--------------------------------------------|-----------------------------------------|
-|<img src="https://github.com/LEGENDVISHAL/images/blob/main/medicine-manager/ss1.png" alt="home" width="300"/> | <img src="https://github.com/LEGENDVISHAL/images/blob/main/medicine-manager/ss2.png" alt="home" width="300"/> | <img src="https://github.com/LEGENDVISHAL/images/blob/main/medicine-manager/ss3.png" alt="home" width="300"/> |
+|![image](https://github.com/user-attachments/assets/43488d16-9ce6-4d18-9032-2b22e05c422a)| <img src="https://github.com/LEGENDVISHAL/images/blob/main/medicine-manager/ss2.png" alt="home" width="300"/> | <img src="https://github.com/LEGENDVISHAL/images/blob/main/medicine-manager/ss3.png" alt="home" width="300"/> |
 
 
 
 ---
 
 
-| _User List Display Screen_ | _Medicine Screen For Particular User_ | _Add Medicine Dialog Box_ |
-|----------------------------|---------------------------------------|---------------------------|
-|<img src="https://github.com/LEGENDVISHAL/images/blob/main/medicine-manager/ss4.png" alt="home" width="300"/> | <img src="https://github.com/LEGENDVISHAL/images/blob/main/medicine-manager/ss5.png" alt="home" width="300"/>| <img src="https://github.com/LEGENDVISHAL/images/blob/main/medicine-manager/ss6.png" alt="home" width="300"/> |
+| _User List Display Screen_| _Add Medicine Dialog Box_ | _Medicine List Display Screen_ |
+|----------------------------|---------------------------|----------------------------|
+|<img src="https://github.com/LEGENDVISHAL/images/blob/main/medicine-manager/ss4.png" alt="home" width="300"/> | ![image](https://github.com/user-attachments/assets/53d097b9-ef51-4a2f-890b-6acaaf54454d)|![image](https://github.com/user-attachments/assets/452a3489-b734-44d4-bef5-603daca733c1)|
 
 ---
 
-| _Medicine List Display Screen_ | _Notifications For Different Users_ | _Reminder Screen_ |
-|----------------------------|---------------------------------------|---------------------------|
-|<img src="https://github.com/LEGENDVISHAL/images/blob/main/medicine-manager/ss7.png" alt="home" width="300"/> | <img src="https://github.com/LEGENDVISHAL/images/blob/main/medicine-manager/ss8.png" alt="home" width="300"/>| <img src="https://github.com/LEGENDVISHAL/images/blob/main/medicine-manager/ss9.png" alt="home" width="300"/> |
+| _Notifications For Different Users_ | _Reminder Screen_ |
+|---------------------------------------|---------------------------|
+| <img src="https://github.com/LEGENDVISHAL/images/blob/main/medicine-manager/ss8.png" alt="home" width="300"/>| ![image](https://github.com/user-attachments/assets/57688af2-8002-42ea-893a-db69d1535792) |
 
 
 
