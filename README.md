@@ -33,8 +33,13 @@
 
 
 
-### Need of Project :
-&nbsp;&nbsp;&nbsp;&nbsp; Health is the only thing that we should care the most. COVID-19 made all the people aware about the importance of health. In such a situation, forgetting about the medicine timings can severely affect the health of an individual. Taking this into consideration, I came up with the idea of this project. The main feature of this project is that it is `multi-user`. so that all the family members especially the elder people who generally dont have smartphones can get benefitted by saving their schedule in one of the smartphone in their family.
+### Need for the Project:
+&nbsp;&nbsp;&nbsp;&nbsp;
+Health is the most critical aspect of our lives. The COVID-19 pandemic has heightened awareness of its importance. In such a context, missing medicine schedules can significantly impact an individual's health. This project aims to address this concern. The primary feature is its multi-user capability, enabling all family members, especially elders who typically don't use smartphones, to benefit by saving their schedules on a single family smartphone.
+
+
+
+
 
 ### Key Features :
 1. #### **Offline Advantage** : As the Application works with an offline database which is stored in the device, no internet connection is required, offline storage of database helps in faster read write operations.
